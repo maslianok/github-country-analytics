@@ -2,4 +2,4 @@
 
 [ithub.app](https://ithub.app)
 
-If you have any questions/suggestions/ideas - please open an issue.
+If you have any questions/suggestions/ideas feel free to open an issue.
